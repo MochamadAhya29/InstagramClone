@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Instagramahyaz</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="caption">Caption</string>
+    <string name="gambar">Gambar</string>
+    <string name="user">User</string>
+    <string name="simpan">simpan</string>
+</resources>
